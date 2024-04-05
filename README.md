@@ -1,4 +1,4 @@
- # Software Developer
+# Software Developer
 
 ##### Skills - PYTHON,JAVA,SQL,REST API   
 
