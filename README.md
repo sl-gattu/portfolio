@@ -1,4 +1,6 @@
-# portfolio
+ # Software Developer
+
+##### Skills - PYTHON,JAVA,SQL,REST API   
 
 Greetings! I'm Gattu Sai Lakshmi, a passionate software developer with a flair for crafting innovative solutions in the digital realm. With a deep-seated commitment to excellence and a penchant for problem-solving, I immerse myself in the dynamic world of technology to create impactful software solutions that resonate with users.
 
